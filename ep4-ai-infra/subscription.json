@@ -13,6 +13,11 @@
             },
             {
                 "principalId": "d98721ee-718d-477d-95a4-9a86d1dde95e",
+                "roleDefinitionId": "4d97b98b-1d4f-4787-a291-c67834d212e7",
+                "principalIdDisplayName": "EP4 Ai Deployers"
+            },
+            {
+                "principalId": "d98721ee-718d-477d-95a4-9a86d1dde95e",
                 "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
                 "principalIdDisplayName": "EP4 Ai Deployers",
                 "delegatedRoleDefinitionIds": [
